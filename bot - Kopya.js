@@ -47,4 +47,4 @@ client.on('message', msg => {
   }
 });
 
-client.login(NTAxMDAwMzY4NzU1MzEwNTky.DsTFSA.6Yc9ZSA45hqSlSwaw3tw9iI5YM0);
+client.login(process.evn.BOT_TOKEN);
